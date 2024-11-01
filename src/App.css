@@ -1,0 +1,22 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+}
+
+.dataDiv{
+  display: flex;
+  flex-wrap: wrap;
+}
+.imageDiv{
+  width:200px;
+  /* height:300px; */
+  overflow:hidden;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin: 5px;
+  border: 1px solid;
+}
+
